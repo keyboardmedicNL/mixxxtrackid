@@ -11,9 +11,11 @@ TNT - ACDC
 this text file can be loaded into obs to show current track id's for dj streams.
 
 # how to use:
-- install python on your system and make sure to select "add to path" when installing
+- install python (https://www.python.org/) on your system and make sure to select "add to path" when installing
+- needs the pip modules ```pyautogui``` and ```time```, if you dont have these installed you can install them with pip (https://pypi.org/project/pip/)
 - run the script either trough a terminal window or trough the included batch file for windows users
 
+Aditional notes   
 * make sure you launch the script after you launch Mixxx
 * the file gets cleared on every restart of the script
 * should work on linux also, currently only tested on windows 10
